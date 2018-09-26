@@ -6,6 +6,8 @@ Olá, vamos organizar neste repositório todos os assets a serem utilizados no C
 
 Aqui estão disponíveis todos os logotipos em svg para utilização no materiais.
 
+Também uma pasta com um modelo de utilização de favicon.
+
 ## app
 
 Nesta pasta está um modelo de apresentação de slides.
